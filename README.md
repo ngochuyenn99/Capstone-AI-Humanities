@@ -14,7 +14,7 @@ During this trip, I realized that platforms like Google Maps often prioritize hi
 
 ## 2. Project Objectives
 The objective of this capstone is to leverage Generative AI to:
-* **Deconstruct the "Tourist Bubble":** Identify how algorithms favor Westernized preferences over indigenous local expertise.
+* **Deconstruct the "Tourist Bubble":** Identify how algorithms favor Westernized preferences over vietnamese local expertise.
 * **Bridge the Diaspora Gap:** Create a tool that helps "Việt Kiều" (Overseas Vietnamese) navigate their ancestral culture through data.
 * **Empower Small Vendors:** Elevate authentic local stalls that may be hidden by lower review counts but carry high cultural value.
 
