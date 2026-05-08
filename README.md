@@ -2,7 +2,7 @@
 A Generative AI framework for Digital Ethnography: Decoding local authenticity and cultural signals in Vietnamese gastronomy reviews.
 
 # The Authentic Gaze: Decoding Gastronomic Heritage
-> **Course:** AI-Aided Creative Exploration in Humanities  
+> **Course:** 2026S 136031-1 GenAI for Humanists  
 > **Author:** Nguyen Ngoc Huyen Tran
 > **Matrikelnummer:** 11922332
 > **Status:** Project Proposal (Delivery 1)
