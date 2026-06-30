@@ -6,7 +6,7 @@ A Generative AI framework for Digital Ethnography: Decoding local authenticity a
 > **Course:** 2026S 136031-1 GenAI for Humanists
 > **Author:** Nguyen Ngoc Huyen Tran
 > **Matrikelnummer:** 11922332
-> **Status:** Project Proposal (Delivery 2 — Revised)
+> **Status:** Project Proposal 
 
 ## 1. Personal Motivation & Context
 
